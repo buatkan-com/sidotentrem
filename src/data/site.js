@@ -76,10 +76,10 @@ export const locations = [
   ],
 ];
 export const instagram = [
-  "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=85",
-  "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=700&q=85",
-  "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=700&q=85",
-  "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=700&q=85",
-  "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=700&q=85",
-  "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=85",
+  "https://images.unsplash.com/photo-1676641142188-a4615414d665?q=80&w=687&auto=format&fit=crop",
+  "https://images.pexels.com/photos/32232887/pexels-photo-32232887.jpeg",
+  "https://images.unsplash.com/photo-1688477167787-e97714a5af7f?q=80&w=687&auto=format&fit=crop",
+  "https://images.pexels.com/photos/32112839/pexels-photo-32112839.jpeg",
+  "https://images.pexels.com/photos/39206763/pexels-photo-39206763.jpeg",
+  "https://images.pexels.com/photos/3988087/pexels-photo-3988087.jpeg",
 ];

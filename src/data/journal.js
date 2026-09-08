@@ -8,7 +8,7 @@ export const journal = [
     excerpt:
       "Lebih dari sekadar pola, Parang menyimpan filosofi tentang perjalanan dan keteguhan.",
     image:
-      "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1616125162686-770bf85622b9?q=80&w=735&auto=format&fit=crop",
     quote: "Yang terus bergerak tidak selalu harus tergesa-gesa.",
     content: [
       `Parang adalah salah satu motif yang paling mudah dikenali dalam khazanah batik Jawa. Garis diagonalnya mengalir seperti gelombang yang tidak pernah benar-benar berhenti.`,
@@ -26,7 +26,7 @@ export const journal = [
     excerpt:
       "Mengenal proses di balik setiap lembar kain dan mengapa waktu menjadi bagian dari nilainya.",
     image:
-      "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop",
     quote:
       "Waktu bukan hambatan dalam karya tangan. Waktu adalah bagian dari karya.",
     content: [
@@ -45,7 +45,7 @@ export const journal = [
     excerpt:
       "Karakter warna yang menjadi identitas batik klasik dan mengapa palet bumi terasa begitu dekat.",
     image:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=85",
+      "https://images.pexels.com/photos/32232883/pexels-photo-32232883.jpeg",
     quote: "Warna bumi memberi ruang bagi motif untuk berbicara.",
     content: [
       `Sogan memiliki karakter yang hangat, tenang, dan dalam. Palet ini menjadi salah satu bahasa visual penting dalam batik Jawa.`,
@@ -63,7 +63,7 @@ export const journal = [
     excerpt:
       "Perjalanan sebuah kain sebelum sampai kepada Anda, dari meja kerja hingga menjadi bagian dari keseharian.",
     image:
-      "https://images.unsplash.com/photo-1503341733017-1901578f35a1?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1672716912554-c23ba8fac4ce?q=80&w=1470&auto=format&fit=crop",
     quote: "Menjaga batik berarti menjaga pengetahuan yang hidup.",
     content: [
       `Di balik setiap karya ada orang-orang yang memahami kain bukan hanya sebagai material, tetapi sebagai bagian dari tradisi yang dipelajari bertahun-tahun.`,
@@ -81,7 +81,7 @@ export const journal = [
     excerpt:
       "Bagaimana tradisi tetap relevan ketika cara kita berpakaian dan hidup terus berubah.",
     image:
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85",
+      "https://images.pexels.com/photos/39195510/pexels-photo-39195510.jpeg",
     quote: "Tradisi dapat berubah bentuk tanpa kehilangan jiwanya.",
     content: [
       `Batik tidak harus menunggu acara khusus untuk dikenakan. Justru ketika masuk ke rutinitas, ia menemukan cara baru untuk hidup.`,
@@ -99,7 +99,7 @@ export const journal = [
     excerpt:
       "Panduan sederhana merawat kain batik agar warna, tekstur, dan ceritanya bertahan lebih lama.",
     image:
-      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85",
+      "https://images.pexels.com/photos/36798175/pexels-photo-36798175.jpeg",
     quote: "Perawatan yang lembut adalah bentuk penghormatan.",
     content: [
       `Batik menyukai perlakuan yang lembut. Untuk pemakaian rutin, cuci dengan tangan menggunakan air dingin dan deterjen yang tidak keras.`,

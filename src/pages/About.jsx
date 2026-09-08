@@ -6,7 +6,7 @@ export default function About() {
     <section className="page about-page">
       <div className="about-hero">
         <img
-          src="https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=2200&q=88"
+          src="https://images.unsplash.com/photo-1675994645106-8c48153d8c25?q=80&w=1471&auto=format&fit=crop"
           alt="Suasana hangat bernuansa Jawa"
         />
         <div>
@@ -92,7 +92,7 @@ export default function About() {
       <section className="about-craft">
         <div className="about-craft-image">
           <img
-            src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1300&q=90"
+            src="https://images.pexels.com/photos/39224094/pexels-photo-39224094.jpeg"
             alt="Detail fashion dan kain"
             loading="lazy"
           />

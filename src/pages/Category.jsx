@@ -42,8 +42,8 @@ export default function Category({ type }) {
         <img
           src={
             fabric
-              ? "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1300&q=88"
-              : "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1300&q=88"
+              ? "https://images.pexels.com/photos/27897131/pexels-photo-27897131.jpeg"
+              : "https://images.pexels.com/photos/2728762/pexels-photo-2728762.jpeg"
           }
           alt="Sido Tentrem editorial"
         />

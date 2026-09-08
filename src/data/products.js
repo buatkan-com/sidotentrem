@@ -21,10 +21,10 @@ export const products = [
     availability: "Ready stock",
     care: "Cuci lembut dengan tangan, gunakan deterjen khusus batik, hindari pemutih dan jemur di tempat teduh.",
     images: [
-      img("1544441893-675973e87a68"),
-      img("1539109136881-3be0616acf4b"),
-      img("1515886657613-9f3515b0c78f"),
-      img("1529139574466-a303027c1d8b"),
+      img("1680345575812-2f6878d7d775"),
+      img("1615197420681-10d7a10f8e08"),
+      img("1743210343060-97602cbcc04d"),
+      img("1543874835-ad7d64196a07"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -53,10 +53,10 @@ export const products = [
     availability: "Ready stock",
     care: "Simpan dalam keadaan kering dan lipat dengan rapi. Hindari paparan matahari langsung.",
     images: [
-      img("1503341733017-1901578f35a1"),
-      img("1490481651871-ab68de25d43d"),
-      img("1483985988355-763728e1935b"),
-      img("1525507119028-ed4c629a60a3"),
+      img("1762111908858-201b9da429dc"),
+      img("1777283336916-705ca9061e65"),
+      img("1761516659531-81f8cce1b480"),
+      img("1761516126042-8149ab6221c1"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -243,10 +243,10 @@ export const products = [
     availability: "Ready stock",
     care: "Gunakan lerak atau deterjen batik, keringkan dengan diangin-anginkan.",
     images: [
-      img("1515372039744-b8f02a8ae446"),
-      img("1503341733017-1901578f35a1"),
-      img("1531058020387-3be344556be6"),
-      img("1558618666-fcd25c85cd64"),
+      img("1761515315519-7fa1af1d3e06"),
+      img("1762111908723-bad60c26415f"),
+      img("1784294523351-dd2ea0c0e4dd"),
+      img("1761516126053-5216b846ac05"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",

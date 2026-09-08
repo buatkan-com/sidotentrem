@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <section className="hero">
         <img
-          src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=2200&q=90"
+          src="https://images.unsplash.com/photo-1680345575909-99633d4b6f46?q=80&w=1470&auto=format&fit=crop"
           alt="Model mengenakan busana bernuansa batik di ruang hangat"
         />
         <div className="hero-shade" />
@@ -61,7 +61,7 @@ export default function Home() {
         </div>
         <div className="philosophy-image">
           <img
-            src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1100&q=88"
+            src="https://images.pexels.com/photos/10682943/pexels-photo-10682943.jpeg"
             alt="Detail tekstur kain bernuansa bumi"
             loading="lazy"
           />
@@ -111,7 +111,7 @@ export default function Home() {
       <section className="fashion-story">
         <div className="fashion-image">
           <img
-            src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1400&q=90"
+            src="https://images.unsplash.com/photo-1766471524299-016b52512780?q=80&w=687&auto=format&fit=crop"
             alt="Editorial fashion bernuansa batik"
             loading="lazy"
           />
@@ -152,7 +152,7 @@ export default function Home() {
         <div className="craft-grid">
           <div className="craft-image">
             <img
-              src="https://images.unsplash.com/photo-1503341733017-1901578f35a1?auto=format&fit=crop&w=1300&q=90"
+              src="https://images.pexels.com/photos/34161634/pexels-photo-34161634.jpeg"
               alt="Pengrajin dan proses tekstil"
               loading="lazy"
             />
@@ -202,7 +202,7 @@ export default function Home() {
         </div>
         <div className="maker-image">
           <img
-            src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1300&q=90"
+            src="https://images.pexels.com/photos/36977424/pexels-photo-36977424.jpeg"
             alt="Fashion portrait bernuansa Jawa"
             loading="lazy"
           />
@@ -210,7 +210,7 @@ export default function Home() {
       </section>
       <section className="quote-section">
         <img
-          src="https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=2200&q=85"
+          src="https://images.unsplash.com/photo-1652416176625-179e9d96b039?q=80&w=1470&auto=format&fit=crop"
           alt="Tekstur dan suasana hangat Jawa"
           loading="lazy"
         />
