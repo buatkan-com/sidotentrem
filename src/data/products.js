@@ -85,10 +85,10 @@ export const products = [
     availability: "Pre-order 5–7 hari",
     care: "Cuci manual dengan air dingin. Jangan diperas dan simpan jauh dari kelembapan.",
     images: [
-      img("1558618666-fcd25c85cd64"),
-      img("1531058020387-3be344556be6"),
-      img("1523381210434-271e8be1f52b"),
-      img("1538805060514-97d9cc17730c"),
+      img("1777283336916-705ca9061e65"),
+      img("1761516659531-81f8cce1b480"),
+      img("1762111908858-201b9da429dc"),
+      img("1761516126042-8149ab6221c1"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -116,10 +116,10 @@ export const products = [
     availability: "Ready stock",
     care: "Cuci dengan tangan dan balik bagian dalam saat menjemur.",
     images: [
-      img("1516826957135-700dedea698c"),
-      img("1517841905240-472988babdf9"),
-      img("1529139574466-a303027c1d8b"),
-      img("1506629905607-d9c297d39d3d"),
+      img("1615197420681-10d7a10f8e08"),
+      img("1743210343060-97602cbcc04d"),
+      img("1680345575812-2f6878d7d775"),
+      img("1543874835-ad7d64196a07"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -148,10 +148,10 @@ export const products = [
     availability: "Ready stock",
     care: "Dry clean recommended untuk pemakaian formal; cuci lembut untuk perawatan rutin.",
     images: [
-      img("1507679799987-c73779587ccf"),
-      img("1490114538077-0a7f8cb49891"),
-      img("1503342217505-b0a15ec3261c"),
-      img("1520975682031-ae6b7f6f7e1f"),
+      img("1615197420681-10d7a10f8e08"),
+      img("1743210343060-97602cbcc04d"),
+      img("1680345575812-2f6878d7d775"),
+      img("1761515315519-7fa1af1d3e06"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -179,10 +179,10 @@ export const products = [
     availability: "Ready stock",
     care: "Cuci lembut dengan air dingin dan gantung di tempat teduh.",
     images: [
-      img("1485230895905-ec40ba36b9bc"),
-      img("1485968579580-b6d095142e6e"),
-      img("1483985988355-763728e1935b"),
-      img("1515886657613-9f3515b0c78f"),
+      img("1543874835-ad7d64196a07"),
+      img("1784294523351-dd2ea0c0e4dd"),
+      img("1761516126053-5216b846ac05"),
+      img("1762111908723-bad60c26415f"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -211,10 +211,10 @@ export const products = [
     availability: "Limited 24 pieces",
     care: "Cuci manual, setrika suhu rendah dari bagian dalam.",
     images: [
-      img("1483985988355-763728e1935b"),
-      img("1509631179647-0177331693ae"),
-      img("1525507119028-ed4c629a60a3"),
-      img("1539109136881-3be0616acf4b"),
+      img("1761516126053-5216b846ac05"),
+      img("1784294523351-dd2ea0c0e4dd"),
+      img("1761515315519-7fa1af1d3e06"),
+      img("1762111908723-bad60c26415f"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -243,10 +243,10 @@ export const products = [
     availability: "Ready stock",
     care: "Gunakan lerak atau deterjen batik, keringkan dengan diangin-anginkan.",
     images: [
-      img("1761515315519-7fa1af1d3e06"),
-      img("1762111908723-bad60c26415f"),
-      img("1784294523351-dd2ea0c0e4dd"),
-      img("1761516126053-5216b846ac05"),
+      img("1761516126042-8149ab6221c1"),
+      img("1761516659531-81f8cce1b480"),
+      img("1777283336916-705ca9061e65"),
+      img("1762111908858-201b9da429dc"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -274,10 +274,11 @@ export const products = [
     availability: "Ready stock",
     care: "Cuci terpisah dengan warna senada dan hindari pemutih.",
     images: [
-      img("1490481651871-ab68de25d43d"),
-      img("1503342217505-b0a15ec3261c"),
-      img("1485968579580-b6d095142e6e"),
-      img("1509631179647-0177331693ae"),
+      img("1762111908858-201b9da429dc"),
+      img("1743210343060-97602cbcc04d"),
+      img("1680345575812-2f6878d7d775"),
+      img("1543874835-ad7d64196a07"),
+      img("1615197420681-10d7a10f8e08"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
@@ -305,10 +306,10 @@ export const products = [
     availability: "Ready stock",
     care: "Cuci lembut dan keringkan tanpa paparan matahari langsung.",
     images: [
-      img("1529139574466-a303027c1d8b"),
-      img("1538805060514-97d9cc17730c"),
-      img("1507679799987-c73779587ccf"),
-      img("1517841905240-472988babdf9"),
+      img("1743210343060-97602cbcc04d"),
+      img("1615197420681-10d7a10f8e08"),
+      img("1680345575812-2f6878d7d775"),
+      img("1543874835-ad7d64196a07"),
     ],
     marketplace: {
       tokopedia: "https://www.tokopedia.com/",
